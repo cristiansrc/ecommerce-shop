@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "login": "/login",
+    "404": "/404",
+    "500": "/500"
+  },
+  "urlServiceBase": "http://localhost:8080",
+  "urlImageBase": "http://localhost:8181/images/"
+}
